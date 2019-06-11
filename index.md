@@ -2,7 +2,7 @@
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
 teaser: "https://images.fineartamerica.com/images-medium-large-5/sankofa-donna-lee-bolden-kerr.jpg"
-overlay_image: "http://orig13.deviantart.net/4eb5/f/2012/187/6/8/ma__at_by_theoriginalginger-d5697yz.png"
+overlay_image: "https://c8.alamy.com/comp/DA466J/maat-or-isis-egyptian-goddess-decoration-replica-DA466J.jpg"
 contributors:
   - name: Briana J. Richardson
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Male_Chocolate_Burmese_Cat.jpg/1200px-Male_Chocolate_Burmese_Cat.jpg
