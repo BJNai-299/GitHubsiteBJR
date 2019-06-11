@@ -5,7 +5,7 @@ teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_Night
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Briana J. Richardson
-    image: https://images4.alphacoders.com/571/571214.jpg
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Male_Chocolate_Burmese_Cat.jpg/1200px-Male_Chocolate_Burmese_Cat.jpg
     bio: Briana J. Richardson is a University of Delaware student and future teacher.
     Facebook: BrianaRichardson
 ---
