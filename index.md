@@ -6,7 +6,7 @@ overlay_image: "https://c8.alamy.com/comp/DA466J/maat-or-isis-egyptian-goddess-d
 contributors:
   - name: Briana J. Richardson
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Male_Chocolate_Burmese_Cat.jpg/1200px-Male_Chocolate_Burmese_Cat.jpg
-    bio: Briana J. Richardson is a University of Delaware student and future teacher.
+    bio: Briana J. Richardson is a University of Delaware student graduating with a degree in Africana Studies with a Concentration in Social Studies Education. She will be teaching Special Education in Las Vegas, Nevada. 
     Twitter: BrianaRichardson
 ---
 
