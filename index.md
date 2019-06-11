@@ -1,7 +1,7 @@
 ---
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: https://images.fineartamerica.com/images-medium-large-5/sankofa-donna-lee-bolden-kerr.jpg
+teaser: "https://www.ancient-origins.net/sites/default/files/field/image/Voodoo.jpg"
 overlay_image: "https://c8.alamy.com/comp/DA466J/maat-or-isis-egyptian-goddess-decoration-replica-DA466J.jpg"
 contributors:
   - name: Briana J. Richardson
