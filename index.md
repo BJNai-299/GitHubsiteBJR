@@ -5,8 +5,8 @@ teaser: "https://www.smsprojects.net/uploads/2/5/0/2/25028172/colored-convention
 overlay_image: "https://www.smsprojects.net/uploads/2/5/0/2/25028172/colored-convention_orig.jpg"
 contributors:
   - name: Briana J. Richardson
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Male_Chocolate_Burmese_Cat.jpg/1200px-Male_Chocolate_Burmese_Cat.jpg
-    bio: Briana J. Richardson is a University of Delaware student graduating with a degree in Africana Studies with a Concentration in Social Studies Education. She will be teaching Special Education in Las Vegas, Nevada. 
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/University_of_Delaware_Seal.svg/1200px-University_of_Delaware_Seal.svg.png"
+    bio: Briana J. Richardson is a University of Delaware Undergraduate student graduating with a degree in Africana Studies with a Concentration in Social Studies Education. She will be teaching Special Education in Las Vegas, Nevada. 
     Twitter: BrianaRichardson
 ---
 
