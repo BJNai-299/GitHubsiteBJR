@@ -1,7 +1,7 @@
 ---
 title: "Post Bellum Convention documents from Georgia and Alabama: A Digital Display from The Colored Conventions Project"
 excerpt: 'I have found x amount of documents for x Conventions that the Colored Conventions Project very little if any documents on.'
-teaser: "
+teaser: "https://www.smsprojects.net/uploads/2/5/0/2/25028172/colored-convention_orig.jpg"
 overlay_image: "https://www.smsprojects.net/uploads/2/5/0/2/25028172/colored-convention_orig.jpg"
 contributors:
   - name: Briana J. Richardson
