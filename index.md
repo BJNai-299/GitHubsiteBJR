@@ -31,4 +31,3 @@ My research this summer focused on select few Conventions that documents from an
 [^1]: 
 "Colored Conventions Project
 .", http://coloredconventions.org/.
-[^2]: Here is another footnote example.
