@@ -28,6 +28,7 @@ My research this summer focused on select few Conventions that documents from an
 
 ## References
 
-[^1]: "Colored Conventions Project
+[^1]: 
+"Colored Conventions Project
 .", http://coloredconventions.org/.
 [^2]: Here is another footnote example.
