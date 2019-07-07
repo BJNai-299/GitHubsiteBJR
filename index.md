@@ -23,9 +23,11 @@ The delegates to these meetings included the most well-known, if mostly male, wr
 This project seeks to not only learn about the lives of male delegates, the places where they met and the social networks that they created, but also to account for the crucial work done by Black women in the broader social networks that made these conventions possible.
 
 ColoredConventions.org endeavors to transform teaching and learning about this historic collective organizing effort—and about the many leaders and places involved in it—bringing them to digital life for a new generation of students and scholars across disciplines and for community researchers interested in the history of activist church, civil rights, educational and entrepreneurial engagement.
+
 My research this summer focused on select few Conventions that documents from and about these Conventions have not been aquried yet.
 
 ## References
 
-[^1]: Here is a footnote example.
+[^1]: "Colored Conventions Project
+.", http://coloredconventions.org/.
 [^2]: Here is another footnote example.
