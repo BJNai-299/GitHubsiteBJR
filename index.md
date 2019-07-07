@@ -27,7 +27,5 @@ ColoredConventions.org endeavors to transform teaching and learning about this h
 My research this summer focused on select few Conventions that documents from and about these Conventions have not been aquried yet.
 
 ## References
-
-[^1]: 
 "Colored Conventions Project
 .", http://coloredconventions.org/.
