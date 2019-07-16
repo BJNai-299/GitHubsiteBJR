@@ -2,7 +2,7 @@
 title: "Post Bellum Convention documents from Georgia and Alabama: A Digital Display from The Colored Conventions Project"
 excerpt: 'I have found x amount of documents for x Conventions that the Colored Conventions Project very little if any documents on.'
 teaser: "https://www.historians.org/Images/Perspectives/AHA%20Today/2016/12/ccp-2.jpg"
-overlay_image: "https://www.smsprojects.net/uploads/2/5/0/2/25028172/colored-convention_orig.jpg"
+overlay_image: "https://www.historians.org/Images/Perspectives/AHA%20Today/2016/12/ccp-2.jpg"
 contributors:
   - name: Briana J. Richardson
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/University_of_Delaware_Seal.svg/1200px-University_of_Delaware_Seal.svg.png"
