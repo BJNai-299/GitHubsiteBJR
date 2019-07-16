@@ -1,5 +1,5 @@
 ---
-title: "Post Bellum Convention documents from Georgia and Alabama: A Digital Display from The Colored Conventions Project"
+title: "Post Bellum Convention A Digital Display from The Colored Conventions Project"
 excerpt: 'I have found x amount of documents for x Conventions that the Colored Conventions Project very little if any documents on.'
 teaser: "https://pbs.twimg.com/profile_images/528335391481290752/ifCwkX2C_400x400.jpeg"
 overlay_image: "https://pbs.twimg.com/profile_images/528335391481290752/ifCwkX2C_400x400.jpeg"
