@@ -1,8 +1,8 @@
 ---
 title: "Post Bellum Convention A Digital Display from The Colored Conventions Project"
 excerpt: 'I have found x amount of documents for x Conventions that the Colored Conventions Project very little if any documents on.'
-teaser: "http://www.ihrc.udel.edu/wp-content/uploads/2014/08/coloredConventions.jpg"
-overlay_image: "http://www.ihrc.udel.edu/wp-content/uploads/2014/08/coloredConventions.jpg"
+teaser: "https://pbs.twimg.com/profile_images/528335391481290752/ifCwkX2C_400x400.jpeg"
+overlay_image: "https://pbs.twimg.com/profile_images/528335391481290752/ifCwkX2C_400x400.jpeg"
 contributors:
   - name: Briana J. Richardson
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/University_of_Delaware_Seal.svg/1200px-University_of_Delaware_Seal.svg.png"
