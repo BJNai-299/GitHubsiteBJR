@@ -1,8 +1,8 @@
 ---
 title: "Post Ante Bellum Convention A Digital Display from The Colored Conventions Project"
 excerpt: 'I have found 47 documents for 15 Conventions that the Colored Conventions Project very little if any documents on.'
-teaser: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QjnOjKkFcIwBUAE3n7Y_uiFCyxIfPBzEs31T0gy0CiUGQktv"
-overlay_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_QjnOjKkFcIwBUAE3n7Y_uiFCyxIfPBzEs31T0gy0CiUGQktv"
+teaser: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNKao1jSsZqMwcCY7SQiCAv7x7hgvZj2CNqZQgMMBqgJKzx_1Ig"
+overlay_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNKao1jSsZqMwcCY7SQiCAv7x7hgvZj2CNqZQgMMBqgJKzx_1Ig"
 contributors:
   - name: Briana J. Richardson
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/University_of_Delaware_Seal.svg/1200px-University_of_Delaware_Seal.svg.png"
